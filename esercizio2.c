@@ -13,5 +13,5 @@ int main(){
     scanf("%d",&secondo);
 
     media=(float)(primo+secondo)/2;
-    printf("la media è %6.2f7n ",media);
+    printf("la media è %6.2f\n ",media);
 }
